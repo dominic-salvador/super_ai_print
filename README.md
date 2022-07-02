@@ -13,4 +13,4 @@ A slightly modified "Hello World!" program. Displays a short message with a "lit
 
 You can also run super_ai_print in Replit ⠕, a free online coding environment.
 
-[Try it now!](https://replit.com/@dominic-salvado/replace_me) (start here!)
+[Try it now!](https://replit.com/@dsalvador/superaiprint) (start here!)
